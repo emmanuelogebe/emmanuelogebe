@@ -3,7 +3,7 @@ My name is Emmanuel and I am passionate about data science, machine learning, au
 
 - I’m currently working and looking to collaborate on Data Science and Machine Learning projects 
 - Skills
-  - Programming (Python, R, Julia)
+  - Programming (Python, R, Julia, Scala)
   - Analytics (MsExcel, Tableau)
   - Database (PostgreSQL)
   - DevOps (GCP)
