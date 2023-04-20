@@ -10,3 +10,6 @@ My name is Emmanuel and I am passionate about data science, machine learning, au
 - [Read my Technical Articles](https://emmanuelogebe.hashnode.dev/)
 - [Kaggle Code Repository](https://www.kaggle.com/emmanuelogebe/code)
 - [Check out my Published Visualizations](https://public.tableau.com/app/profile/emmanuel.ogebe1)
+
+
+“Machine intelligence is the last invention that humanity will ever need to make.” – Nick Bostrom
