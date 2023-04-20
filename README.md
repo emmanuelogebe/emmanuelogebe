@@ -8,3 +8,4 @@ My name is Emmanuel and I am passionate about data science, machine learning, au
   - Database (PostgreSQL)
   - DevOps (GCP)
 - [Read my Technical Articles](https://emmanuelogebe.hashnode.dev/)
+- [Check out my Published Visualizations](https://public.tableau.com/app/profile/emmanuel.ogebe1)
